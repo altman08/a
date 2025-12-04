@@ -1,3 +1,16 @@
+本项目已迁移，新项目订阅地址：
+
+https://hub.gitmirror.com/https://raw.githubusercontent.com/wzh15802/tvbox/master/tv.json
+
+影视仓多源管理系统上线，随时更新，同步推送Git
+
+影视仓多源管理系统已开源(不含Git部分) 
+
+https://github.com/wzh15802/tvbox
+
+-----------------------------------------------------------------------------------------------------------------
+
+
 接口均来自各大神线路。本接口仅做集成，未修改任何内容。by [imwzh](https://www.imwzh.com)
 
 集成接口(普通)：https://ghfast.top/https://raw.githubusercontent.com/hiboxs/a/main/imwzh.json
@@ -32,6 +45,7 @@ https://www.123pan.com/s/zjv9-NHIo3.html 提取码:wuuu
 https://pan.quark.cn/s/a6b16d4c787c
 
 https://www.123pan.com/s/zjv9-8HIo3.html
+
 
 
 
